@@ -1,0 +1,9 @@
+* cl4store
+
+4store Common Lisp HTTP bindings
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/mmontone/cl4store.git |
+| commit  | c4ec9a8                                      |
+| systems | cl4store                                     |
+|---------+----------------------------------------------|
